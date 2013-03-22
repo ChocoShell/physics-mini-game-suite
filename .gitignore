@@ -2,7 +2,6 @@
 weltmeister.html
 lib/weltmeister/*
 lib/impact/
-lib/plugins/
 
 ### ImpactJS bake tool
 tools/bake.bat
